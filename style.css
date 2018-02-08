@@ -1,0 +1,49 @@
+ 
+ .sidebar
+ {
+     margin-left: 10px;
+     width:180px;
+       border: 5px groove lightgray;
+
+   }
+ .contents
+ {
+     margin-left: 10px;
+    }
+ .box
+ {
+     width:200px;
+     height: 350px;
+     margin-left: 3px;
+     margin-top: 3px;
+     border: 2px solid black;
+ }
+
+ label{
+     margin-left: 10px;
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+.input
+ {
+     margin-left: 9px;
+ }
+
+.input_btn
+ {
+     margin-left: 9px;
+     margin-bottom: 9px;
+ }
+/*button 
+{
+ 
+   margin-top: 40px;
+   margin-bottom: 10px;
+height: 30px;  font-weight: bold;
+  padding: 0 20px;
+  background:lightgreen;
+  border: none;
+}*/
+/*button:hover {
+  background:turquoise;
+}*/

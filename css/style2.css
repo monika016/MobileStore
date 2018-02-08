@@ -1,0 +1,64 @@
+.main{
+ 
+    display: inline-block;
+}
+
+.contents
+ {
+
+display: inline-block;
+     margin-left: 40px;
+     margin-bottom: 40px;
+   }
+img{
+    margin-top: 8px;
+margin-left: 4px;
+margin-RIGHT: 4px;
+height:250px;
+width:200px;
+border-radius: 10px;
+}
+
+label{
+     font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.for-label{
+
+}
+
+.image-box{
+    margin:10px;
+    margin-left: 15px;;
+    display: inline-block;
+  background-color: aliceblue;
+border:1px solid gainsboro;
+border-radius: 10px;
+    box-shadow: 5px 10px grey;
+
+}
+
+.for-chck
+{
+    margin-left:15px;
+}
+
+#contentBody{
+    position: absolute;
+    top: 70px;
+    left: 180px;
+    width: 80%;
+}
+
+.for-btn
+{
+    background-color:tomato;
+    border-color: tomato;
+    margin-bottom: 14px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700 ;
+}
